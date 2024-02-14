@@ -1,0 +1,37 @@
+package sampleA;
+
+public class TestA {
+
+	public static void main(String[] args) {
+		
+		
+		TestA xyz = new TestA();
+		
+		xyz.methodTestA();
+		xyz.methodTestB();
+		xyz.methodTestC();
+		xyz.methodTestD();
+	}
+	
+	public void methodTestA()
+	{
+		System.out.println("Good day...!");
+	}
+	
+	
+	private void methodTestB()
+	{
+		System.out.println("Good Evening...!");
+	}
+	
+	
+	protected void methodTestC()
+	{
+		System.out.println("Java program...!");
+	}
+
+	static void methodTestD()
+	{
+		System.out.println("Selenium program...!");
+	}
+}

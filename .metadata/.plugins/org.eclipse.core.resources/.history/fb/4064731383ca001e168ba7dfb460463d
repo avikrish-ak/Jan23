@@ -1,0 +1,11 @@
+package test;
+
+public class SampleA {
+
+	public static void main(String[] args) {
+	byte xyz= -129;
+	System.out.println(xyz);
+
+	}
+
+}

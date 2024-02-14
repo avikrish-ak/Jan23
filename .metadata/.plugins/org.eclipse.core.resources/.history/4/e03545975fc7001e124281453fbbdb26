@@ -1,0 +1,13 @@
+package test1;
+
+public class SampleA {
+
+	
+	//main method
+	public static void test(String[] args) {
+		
+		System.out.print("Good Day..!");
+
+	}
+
+}

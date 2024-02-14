@@ -1,0 +1,11 @@
+package sampleA;
+
+public class TestA {
+
+	protected static void main(String[] args) {
+		
+		System.out.print("Good day...!");
+		
+	}
+
+}

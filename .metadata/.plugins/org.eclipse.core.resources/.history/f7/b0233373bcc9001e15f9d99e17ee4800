@@ -1,0 +1,31 @@
+package sampleA;
+
+public class TestA {
+
+	public static void main(String[] args) {
+		
+		
+		TestA xyz = new TestA();
+		
+		xyz.methodTest();
+		
+	}
+	
+	public void methodTestA()
+	{
+		System.out.println("Good day...!");
+	}
+	
+	
+	public void methodTestB()
+	{
+		System.out.println("Good Evening...!");
+	}
+	
+	
+	public void methodTestC()
+	{
+		System.out.println("Java program...!");
+	}
+
+}

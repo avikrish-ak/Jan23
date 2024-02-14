@@ -1,0 +1,12 @@
+package test;
+
+public class SampleA {
+
+	public static void main(String[] args) {
+	byte xyz= 57;
+	xyz=64;
+	System.out.println(xyz);
+
+	}
+
+}
